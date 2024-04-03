@@ -15,8 +15,7 @@ The Clothes Website is a sleek and user-friendly platform designed to display an
 ## Technologies Used
 
 - HTML5
-- CSS3 (including any preprocessors like Sass or LESS)
-- JavaScript
+- CSS3 
 
 # Screenshot
 ![Screenshot 2024-04-03 102202](https://github.com/AnilYadav8421/Clothes-Website/assets/138858484/93c0a8f4-aa80-4c6c-b4da-498e549c2a72)
